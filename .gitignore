@@ -1,0 +1,11 @@
+# Jetbrains tools
+.idea
+
+# Mac
+.DS_Store
+
+# Protege
+catalog-v*
+
+# TopBraid
+.project*
