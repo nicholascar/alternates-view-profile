@@ -16,7 +16,7 @@ Please feel free to use it as you wish, just attribute SURROUND!
 ## Contacts
 Authors:
 
-Nicholas J. Car & Rob Atkinson  
+**Nicholas J. Car** & **Rob Atkinson**  
 *SURROUND Australia Pty Ltd*  
 <nicholas.car@suroundaustralia.com> & <rob.atkinson@surroundaustralia.com>  
 <https://orcid.org/0000-0002-8742-7730> & <https://orcid.org/0000-0002-7878-2693>  
